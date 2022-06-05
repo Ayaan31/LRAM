@@ -12,7 +12,7 @@ height = 0
 print("Number of Subintervals: ", end = "")
 num_subintervals = int(input())
 
-# Asks the use for their upper and lower bounds
+# Asks the user for their upper and lower bounds
 print("Interval of Function in form (a, b)")
 
 interval_a = int(input("a: "))
@@ -43,8 +43,3 @@ LRAM = LRAM * width
 # Print the LRAM rounded to 3 decimal places
 print(round(LRAM, 3))
         
-    
-        
-    
-
-
